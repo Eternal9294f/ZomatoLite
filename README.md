@@ -4,7 +4,7 @@ A lightweight restaurant discovery and review platform exploring a simple questi
 
 **How do you make ratings actually useful when someone is deciding what to eat?**
 
-**Live:** [zomato-lite-wheat.vercel.app](https://zomato-lite-wheat.vercel.app/)
+**Live:** 
 
 ---
 
